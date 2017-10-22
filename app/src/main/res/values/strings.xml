@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">AquaMod Installer</string>
+    <string name="update_ver" translatable="false">0.1</string>
+    <string name="update_file_url" translatable="false">http://www.warble.eu/wp-content/aqua/PHONE_MODEL/update.zip</string>
+    <string name="version_file_url" translatable="false">http://www.warble.eu/wp-content/aqua/PHONE_MODEL/version.txt</string>
+    <string name="download_available">Доступна версия для загрузки</string>
+    <string name="searching_for_last_version">Поиск последней версии</string>
+    <string name="aqua_version">Версия Aqua: </string>
+    <string name="flyme_version">Версия Flyme: </string>
+    <string name="your_version">Твоя версия :</string>
+    <string name="check_for_update">Проверить доступность мода</string>
+    <string name="update_size">Размер загрузки:</string>
+    <string name="checking">Проверка целосности файлов</string>
+    <string name="checking_error">Файлы повреждены</string>
+    <string name="ready_to_install">Все готово к установке</string>
+    <string name="error">Ошибка установки</string>
+    <string name="download_and_install">Скачать и установить</string>
+    <string name="update_downloading">Скачивание мода…</string>
+    <string name="aqua_mod">Aqua mod</string>
+    <string name="last_checked">Последняя проверка:</string>
+    <string name="downloading">Скачивание</string>
+    <string name="start_installing">Начать установку</string>
+    <string name="installing">Установка.. пожалуйста не закрывайте приложение</string>
+    <string name="icon">icon</string>
+    <string name="imei_Error">Ваш imei номер не зарегестрирован в нашей базе</string>
+    <string name="checking_imei">Проверка IMEI</string>
+    <string name="root_error">Root не установлен</string>
+    <string name="busybox_error">BusyBox не установлен</string>
+    <string name="checking_root">Проверка root</string>
+    <string name="checking_busybox">Проверка BusyBox</string>
+</resources>
