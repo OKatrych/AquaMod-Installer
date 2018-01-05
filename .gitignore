@@ -56,3 +56,5 @@ freeline_project_description.json
 
 #MacOS
 .DS_Store
+*.project
+.vscode/settings.json
